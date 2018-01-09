@@ -1,0 +1,2 @@
+# Computational-Mathematics
+A selection of programs that employ basic techniques of computational mathematics that include; matrix computations, data fitting techniques (interpolation and least squares), image and signal processing, optimization, quadrature, initial value problems, computational efficiency, and visualization. This repository reflects critical thinking and problem solving using the Matlab software package.
